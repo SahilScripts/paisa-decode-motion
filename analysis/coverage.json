@@ -1,0 +1,132 @@
+{
+  "channel": "Paisa Decode",
+  "channel_url": "https://www.youtube.com/channel/UCdR9xiyUtp7xCLxzzfDZv_Q",
+  "date": "2026-11-16",
+  "timezone": "Asia/Kolkata",
+  "references": [
+    {
+      "source": "sources/FjPuSavm3NY.mp4",
+      "sha256": "ca4cf793eabc1d49606644382d7694771afb26990cc2905a063cdbec6664e1cc",
+      "native_fps": 60.0,
+      "width": 1280,
+      "height": 720,
+      "frames_measured": 46041,
+      "duration_measured": 767.35,
+      "near_duplicates": 24965,
+      "video_id": "FjPuSavm3NY",
+      "title": "Coaching Se Crorepati? Ek Student Ki Fees Pe Asli Mein Kitna Bachta Hai",
+      "url": "https://www.youtube.com/watch?v=FjPuSavm3NY",
+      "dense_intervals_visually_inspected": [
+        [
+          0,
+          3
+        ],
+        [
+          120,
+          123
+        ],
+        [
+          150,
+          158
+        ],
+        [
+          176,
+          180
+        ],
+        [
+          380,
+          383
+        ],
+        [
+          650,
+          653
+        ]
+      ],
+      "dense_frames_visually_inspected": 1440,
+      "overview_step_seconds": 8,
+      "overview_frames_visually_inspected": 96
+    },
+    {
+      "source": "sources/yDKd0mB7wAk.mp4",
+      "sha256": "a5bc713d12ce5eb74bddb2690ecbbe404a05f13a3fe81bf36ee0f02db420f3fc",
+      "native_fps": 60.0,
+      "width": 1920,
+      "height": 1080,
+      "frames_measured": 45235,
+      "duration_measured": 753.9166666666666,
+      "near_duplicates": 4486,
+      "video_id": "yDKd0mB7wAk",
+      "title": "₹1 Lakh/Month Cloud Kitchen? Ek Biryani Pe Asli Mein Kitna Bachta Hai",
+      "url": "https://www.youtube.com/watch?v=yDKd0mB7wAk",
+      "dense_intervals_visually_inspected": [
+        [
+          0,
+          3
+        ],
+        [
+          120,
+          123
+        ],
+        [
+          156,
+          159
+        ],
+        [
+          380,
+          383
+        ],
+        [
+          650,
+          653
+        ]
+      ],
+      "dense_frames_visually_inspected": 900,
+      "overview_step_seconds": 8,
+      "overview_frames_visually_inspected": 95
+    },
+    {
+      "source": "sources/mHCYU1HJTUw.mp4",
+      "sha256": "b3a0df4b2de783d7e453304202b2263c31260e0674490c67ee0dce3d688317ec",
+      "native_fps": 60.0,
+      "width": 1920,
+      "height": 1080,
+      "frames_measured": 38408,
+      "duration_measured": 640.1333333333333,
+      "near_duplicates": 5160,
+      "video_id": "mHCYU1HJTUw",
+      "title": "₹30 Ka Paani Ka Jar: Water Plant Owner Ke Paas Asli Mein Kitna Bachta Hai?",
+      "url": "https://www.youtube.com/watch?v=mHCYU1HJTUw",
+      "dense_intervals_visually_inspected": [
+        [
+          0,
+          3
+        ],
+        [
+          6,
+          9
+        ],
+        [
+          120,
+          123
+        ],
+        [
+          380,
+          383
+        ],
+        [
+          600,
+          603
+        ]
+      ],
+      "dense_frames_visually_inspected": 900,
+      "overview_step_seconds": 8,
+      "overview_frames_visually_inspected": 81
+    }
+  ],
+  "total_frames_measured": 129684,
+  "total_dense_frames_visually_inspected": 3240,
+  "total_overview_frames_visually_inspected": 272,
+  "cloud_image_analysis": false,
+  "vertex_usage": "Audio-only transcription of first 45s of each reference and 30s demo export. No images/video uploaded.",
+  "limits": "Not every image in the three full videos was semantically reviewed. All frames were measured locally; dense visual sampling is exactly listed."
+}

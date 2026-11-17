@@ -1,0 +1,129 @@
+{
+  "brief": "Original 30-second Hindi motion study using the supplied coaching reference's cream/orange treatment.",
+  "format": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 60,
+    "seconds": 30
+  },
+  "assumptions": {
+    "cups_per_day": 100,
+    "price_per_cup": 20,
+    "milk_per_cup": 5,
+    "tea_per_cup": 1,
+    "sugar_per_cup": 1,
+    "cup_per_cup": 1,
+    "daily_rent": 250,
+    "daily_gas_power": 150,
+    "daily_other": 100,
+    "excluded": [
+      "owner labour",
+      "tax",
+      "initial equipment/setup"
+    ]
+  },
+  "beats": [
+    {
+      "interval": [
+        0,
+        5
+      ],
+      "options": [
+        "Coin emerging beside an original chai cart",
+        "Receipt tearing into a question mark",
+        "Cup filling with money"
+      ],
+      "chosen": "Cart, cup and expressive coin establish the unit and question.",
+      "picture": "Left original wood cart; right clay cup and ₹20 coin; coin's expression becomes worried.",
+      "text": "₹20 ki chai. Poore ₹20 tumhare?",
+      "motion": "Masked words, prop entry with damped overshoot, small coin drift and readable hold.",
+      "camera": "Small scale drift; short lateral scene exit.",
+      "sound": "One wood contact and one light coin ping."
+    },
+    {
+      "interval": [
+        5,
+        9.3
+      ],
+      "options": [
+        "100 repeated cups with a receipt",
+        "Calendar turning daily",
+        "Crowd queuing at cart"
+      ],
+      "chosen": "A hundred cups build into price × volume and ₹2,000.",
+      "picture": "10×10 cup grid at left, original receipt at right.",
+      "text": "100 cup roz bike. Bikri hui...",
+      "motion": "Repeated units populate; count and total use the same eased volume.",
+      "camera": "Quiet frame; small receipt tilt.",
+      "sound": "Paper move, soft musical plucks, total ping."
+    },
+    {
+      "interval": [
+        9.3,
+        14.7
+      ],
+      "options": [
+        "Ingredient cards tallying cost",
+        "Exploded cup layers",
+        "Four physical cost slots"
+      ],
+      "chosen": "Four legible cards show milk, leaves, sugar and cup at 5+1+1+1.",
+      "picture": "Four original ingredient illustrations over warm paper.",
+      "text": "Har cup mein kharcha. ₹8 × 100 = ₹800.",
+      "motion": "Staggered entries and count settle before the total.",
+      "camera": "Steady readable layout.",
+      "sound": "Short soft contacts; one final total ping."
+    },
+    {
+      "interval": [
+        14.7,
+        20
+      ],
+      "options": [
+        "Cost pieces split a conserved revenue bar",
+        "Balance tipping under costs",
+        "Coins falling through a sieve"
+      ],
+      "chosen": "Keep ₹800 visible, grow a ₹500 overhead section, shrink ₹1,200 to ₹700.",
+      "picture": "One 2000-wide proportional bar with 800/500/700 amounts; overhead receipt.",
+      "text": "Bache ₹1,200. Phir roz ke ₹500 aur.",
+      "motion": "Cost occupies 25% of bar; remainder conserves total.",
+      "camera": "Steady calculation view.",
+      "sound": "Paper movement at subtraction start."
+    },
+    {
+      "interval": [
+        20,
+        24.8
+      ],
+      "options": [
+        "Surviving coin with excluded-cost note",
+        "Final ledger stamp",
+        "Small owner wage envelope"
+      ],
+      "chosen": "₹700 coin and explicit owner labour/tax/setup exclusions.",
+      "picture": "Original smiling orange coin; one equation card; red labour note.",
+      "text": "Aakhir mein... ₹700 bache.",
+      "motion": "Coin settles, exclusions appear after the headline.",
+      "camera": "Quiet drift that preserves reading.",
+      "sound": "Warm coin ping, ducked music under speech."
+    },
+    {
+      "interval": [
+        24.8,
+        30
+      ],
+      "options": [
+        "Sales and remainder separated by ≠",
+        "Return to cart with two price tags",
+        "Receipt ending in a question"
+      ],
+      "chosen": "Two cards make revenue and remainder visibly different, closing on a useful question.",
+      "picture": "₹2,000 sales card, red ≠, ₹700 remainder card.",
+      "text": "Kharch kaatkar kitna bacha? Bikri suno. Hisaab bhi poochho.",
+      "motion": "Stagger cards and inequality; settle for final read.",
+      "camera": "Final readable hold.",
+      "sound": "Last light paper/coin accents; music fades through final second."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "20 की चाय"
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": "क्या पूरे ₹20 तुम्हारे?"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "100 कप बिके"
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "2000 की बिक्री"
+    },
+    {
+      "start": 9.0,
+      "end": 12.0,
+      "text": "दूध, पत्ती, चीनी और कप"
+    },
+    {
+      "start": 12.0,
+      "end": 15.0,
+      "text": "₹8 प्रति कप"
+    },
+    {
+      "start": 15.0,
+      "end": 17.0,
+      "text": "बचे 1200"
+    },
+    {
+      "start": 17.0,
+      "end": 21.0,
+      "text": "किराया, गैस और बाकी खर्च 500"
+    },
+    {
+      "start": 21.0,
+      "end": 24.0,
+      "text": "अब बचे 700"
+    },
+    {
+      "start": 24.0,
+      "end": 27.0,
+      "text": "मेहनत और टैक्स अभी बाकी हैं"
+    },
+    {
+      "start": 27.0,
+      "end": 30.0,
+      "text": "इसलिए पूछो खर्च काटकर कितना बचा"
+    }
+  ],
+  "audio_notes": "A male voice speaks in Hindi, accompanied by upbeat background music and sound effects of tea pouring and coins clinking.",
+  "source": "paisa-decode-motion/demo/output/chai-demo-30s.mp4",
+  "start": 0,
+  "seconds": 30.0,
+  "input_modality": "audio only",
+  "model": "gemini-3.5-flash"
+}

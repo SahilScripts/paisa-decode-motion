@@ -1,0 +1,15 @@
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+*.key
+*.pem
+credentials*.json
+*-key.json
+sources/
+demo/qa/
+demo/drafts/
+demo/voice-first-pass/
+*.jsonl

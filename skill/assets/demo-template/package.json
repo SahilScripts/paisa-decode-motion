@@ -1,0 +1,15 @@
+{
+  "name": "paisa-decode-motion-demo",
+  "private": true,
+  "scripts": {
+    "render": "node render.mjs",
+    "stills": "node render.mjs --stills"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.537",
+    "@remotion/renderer": "4.0.537",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.537"
+  }
+}

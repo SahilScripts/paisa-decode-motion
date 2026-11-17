@@ -1,0 +1,17 @@
+{
+  "demo": "demo/output/chai-demo-30s.mp4",
+  "video_seconds": 30,
+  "container_seconds": 30.016,
+  "fps": 60,
+  "frames": 1800,
+  "width": 1920,
+  "height": 1080,
+  "sha256": "c1f122c169de446a759864474178c292315dfa66396527a5e52fbdcff788141e",
+  "skill": "skill/SKILL.md",
+  "skill_archive": "paisa-decode-motion-skill.zip",
+  "coverage": "analysis/coverage.json",
+  "review": "demo/review-notes.md",
+  "visual_analysis": "local only; 129684 full reference frames measured, 3240 selected dense frames and 272 overview frames visually inspected",
+  "vertex": "audio transcription only",
+  "continuous_playback_listening": "not performed"
+}

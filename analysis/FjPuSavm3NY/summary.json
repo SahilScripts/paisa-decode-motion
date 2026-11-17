@@ -1,0 +1,590 @@
+{
+  "source": "sources/FjPuSavm3NY.mp4",
+  "sha256": "ca4cf793eabc1d49606644382d7694771afb26990cc2905a063cdbec6664e1cc",
+  "native_fps": 60.0,
+  "analysis_fps": 60,
+  "width": 1280,
+  "height": 720,
+  "frames_measured": 46041,
+  "duration_measured": 767.35,
+  "near_duplicates": 24965,
+  "cut_candidates": [
+    {
+      "frame": 594,
+      "time": 9.9,
+      "mean_delta": 36.86
+    },
+    {
+      "frame": 595,
+      "time": 9.916667,
+      "mean_delta": 32.228
+    },
+    {
+      "frame": 642,
+      "time": 10.7,
+      "mean_delta": 53.199
+    },
+    {
+      "frame": 651,
+      "time": 10.85,
+      "mean_delta": 25.332
+    },
+    {
+      "frame": 652,
+      "time": 10.866667,
+      "mean_delta": 28.654
+    },
+    {
+      "frame": 653,
+      "time": 10.883333,
+      "mean_delta": 27.49
+    },
+    {
+      "frame": 654,
+      "time": 10.9,
+      "mean_delta": 37.352
+    },
+    {
+      "frame": 1176,
+      "time": 19.6,
+      "mean_delta": 28.984
+    },
+    {
+      "frame": 1177,
+      "time": 19.616667,
+      "mean_delta": 28.102
+    },
+    {
+      "frame": 1181,
+      "time": 19.683333,
+      "mean_delta": 43.242
+    },
+    {
+      "frame": 1182,
+      "time": 19.7,
+      "mean_delta": 65.799
+    },
+    {
+      "frame": 1183,
+      "time": 19.716667,
+      "mean_delta": 35.282
+    },
+    {
+      "frame": 1185,
+      "time": 19.75,
+      "mean_delta": 151.06
+    },
+    {
+      "frame": 1186,
+      "time": 19.766667,
+      "mean_delta": 46.33
+    },
+    {
+      "frame": 1190,
+      "time": 19.833333,
+      "mean_delta": 25.119
+    },
+    {
+      "frame": 1191,
+      "time": 19.85,
+      "mean_delta": 36.829
+    },
+    {
+      "frame": 1192,
+      "time": 19.866667,
+      "mean_delta": 27.792
+    },
+    {
+      "frame": 1193,
+      "time": 19.883333,
+      "mean_delta": 25.919
+    },
+    {
+      "frame": 1194,
+      "time": 19.9,
+      "mean_delta": 33.241
+    },
+    {
+      "frame": 1195,
+      "time": 19.916667,
+      "mean_delta": 35.061
+    },
+    {
+      "frame": 1196,
+      "time": 19.933333,
+      "mean_delta": 28.786
+    },
+    {
+      "frame": 2168,
+      "time": 36.133333,
+      "mean_delta": 64.359
+    },
+    {
+      "frame": 2454,
+      "time": 40.9,
+      "mean_delta": 26.504
+    },
+    {
+      "frame": 4627,
+      "time": 77.116667,
+      "mean_delta": 27.594
+    },
+    {
+      "frame": 4628,
+      "time": 77.133333,
+      "mean_delta": 30.088
+    },
+    {
+      "frame": 4630,
+      "time": 77.166667,
+      "mean_delta": 26.028
+    },
+    {
+      "frame": 5028,
+      "time": 83.8,
+      "mean_delta": 26.858
+    },
+    {
+      "frame": 5138,
+      "time": 85.633333,
+      "mean_delta": 30.66
+    },
+    {
+      "frame": 5376,
+      "time": 89.6,
+      "mean_delta": 30.838
+    },
+    {
+      "frame": 5377,
+      "time": 89.616667,
+      "mean_delta": 31.679
+    },
+    {
+      "frame": 5378,
+      "time": 89.633333,
+      "mean_delta": 29.89
+    },
+    {
+      "frame": 5379,
+      "time": 89.65,
+      "mean_delta": 26.534
+    },
+    {
+      "frame": 5575,
+      "time": 92.916667,
+      "mean_delta": 26.925
+    },
+    {
+      "frame": 5580,
+      "time": 93.0,
+      "mean_delta": 41.019
+    },
+    {
+      "frame": 5582,
+      "time": 93.033333,
+      "mean_delta": 42.996
+    },
+    {
+      "frame": 5583,
+      "time": 93.05,
+      "mean_delta": 31.149
+    },
+    {
+      "frame": 6481,
+      "time": 108.016667,
+      "mean_delta": 27.429
+    },
+    {
+      "frame": 6482,
+      "time": 108.033333,
+      "mean_delta": 43.745
+    },
+    {
+      "frame": 6483,
+      "time": 108.05,
+      "mean_delta": 36.7
+    },
+    {
+      "frame": 6484,
+      "time": 108.066667,
+      "mean_delta": 25.98
+    },
+    {
+      "frame": 13887,
+      "time": 231.45,
+      "mean_delta": 29.419
+    },
+    {
+      "frame": 13888,
+      "time": 231.466667,
+      "mean_delta": 27.439
+    },
+    {
+      "frame": 14670,
+      "time": 244.5,
+      "mean_delta": 36.537
+    },
+    {
+      "frame": 14671,
+      "time": 244.516667,
+      "mean_delta": 26.369
+    },
+    {
+      "frame": 15167,
+      "time": 252.783333,
+      "mean_delta": 35.128
+    },
+    {
+      "frame": 15168,
+      "time": 252.8,
+      "mean_delta": 31.655
+    },
+    {
+      "frame": 15169,
+      "time": 252.816667,
+      "mean_delta": 36.069
+    },
+    {
+      "frame": 15170,
+      "time": 252.833333,
+      "mean_delta": 31.055
+    },
+    {
+      "frame": 15171,
+      "time": 252.85,
+      "mean_delta": 40.369
+    },
+    {
+      "frame": 15172,
+      "time": 252.866667,
+      "mean_delta": 32.855
+    },
+    {
+      "frame": 15173,
+      "time": 252.883333,
+      "mean_delta": 73.221
+    },
+    {
+      "frame": 17415,
+      "time": 290.25,
+      "mean_delta": 30.771
+    },
+    {
+      "frame": 17416,
+      "time": 290.266667,
+      "mean_delta": 29.41
+    },
+    {
+      "frame": 20250,
+      "time": 337.5,
+      "mean_delta": 25.904
+    },
+    {
+      "frame": 23494,
+      "time": 391.566667,
+      "mean_delta": 25.705
+    },
+    {
+      "frame": 23495,
+      "time": 391.583333,
+      "mean_delta": 35.622
+    },
+    {
+      "frame": 23496,
+      "time": 391.6,
+      "mean_delta": 35.199
+    },
+    {
+      "frame": 23497,
+      "time": 391.616667,
+      "mean_delta": 25.263
+    },
+    {
+      "frame": 23498,
+      "time": 391.633333,
+      "mean_delta": 80.839
+    },
+    {
+      "frame": 23499,
+      "time": 391.65,
+      "mean_delta": 78.149
+    },
+    {
+      "frame": 23500,
+      "time": 391.666667,
+      "mean_delta": 82.543
+    },
+    {
+      "frame": 23501,
+      "time": 391.683333,
+      "mean_delta": 54.24
+    },
+    {
+      "frame": 23502,
+      "time": 391.7,
+      "mean_delta": 47.836
+    },
+    {
+      "frame": 23503,
+      "time": 391.716667,
+      "mean_delta": 30.597
+    },
+    {
+      "frame": 27156,
+      "time": 452.6,
+      "mean_delta": 26.91
+    },
+    {
+      "frame": 27157,
+      "time": 452.616667,
+      "mean_delta": 43.917
+    },
+    {
+      "frame": 27158,
+      "time": 452.633333,
+      "mean_delta": 73.507
+    },
+    {
+      "frame": 27159,
+      "time": 452.65,
+      "mean_delta": 71.822
+    },
+    {
+      "frame": 27160,
+      "time": 452.666667,
+      "mean_delta": 59.782
+    },
+    {
+      "frame": 27161,
+      "time": 452.683333,
+      "mean_delta": 72.122
+    },
+    {
+      "frame": 31353,
+      "time": 522.55,
+      "mean_delta": 70.309
+    },
+    {
+      "frame": 31354,
+      "time": 522.566667,
+      "mean_delta": 69.216
+    },
+    {
+      "frame": 31355,
+      "time": 522.583333,
+      "mean_delta": 83.481
+    },
+    {
+      "frame": 34661,
+      "time": 577.683333,
+      "mean_delta": 29.965
+    },
+    {
+      "frame": 34663,
+      "time": 577.716667,
+      "mean_delta": 45.565
+    },
+    {
+      "frame": 34664,
+      "time": 577.733333,
+      "mean_delta": 68.008
+    },
+    {
+      "frame": 34665,
+      "time": 577.75,
+      "mean_delta": 111.662
+    },
+    {
+      "frame": 34666,
+      "time": 577.766667,
+      "mean_delta": 90.671
+    },
+    {
+      "frame": 34667,
+      "time": 577.783333,
+      "mean_delta": 45.43
+    },
+    {
+      "frame": 34668,
+      "time": 577.8,
+      "mean_delta": 31.854
+    },
+    {
+      "frame": 37318,
+      "time": 621.966667,
+      "mean_delta": 27.939
+    },
+    {
+      "frame": 37319,
+      "time": 621.983333,
+      "mean_delta": 121.495
+    },
+    {
+      "frame": 37320,
+      "time": 622.0,
+      "mean_delta": 89.297
+    },
+    {
+      "frame": 37329,
+      "time": 622.15,
+      "mean_delta": 30.533
+    },
+    {
+      "frame": 37330,
+      "time": 622.166667,
+      "mean_delta": 33.356
+    },
+    {
+      "frame": 37331,
+      "time": 622.183333,
+      "mean_delta": 28.579
+    },
+    {
+      "frame": 37625,
+      "time": 627.083333,
+      "mean_delta": 25.606
+    },
+    {
+      "frame": 38287,
+      "time": 638.116667,
+      "mean_delta": 26.739
+    },
+    {
+      "frame": 42596,
+      "time": 709.933333,
+      "mean_delta": 29.361
+    },
+    {
+      "frame": 42597,
+      "time": 709.95,
+      "mean_delta": 30.233
+    },
+    {
+      "frame": 42598,
+      "time": 709.966667,
+      "mean_delta": 25.691
+    },
+    {
+      "frame": 42599,
+      "time": 709.983333,
+      "mean_delta": 25.563
+    },
+    {
+      "frame": 42600,
+      "time": 710.0,
+      "mean_delta": 35.304
+    },
+    {
+      "frame": 42601,
+      "time": 710.016667,
+      "mean_delta": 67.353
+    },
+    {
+      "frame": 42602,
+      "time": 710.033333,
+      "mean_delta": 120.523
+    },
+    {
+      "frame": 42603,
+      "time": 710.05,
+      "mean_delta": 62.831
+    },
+    {
+      "frame": 42604,
+      "time": 710.066667,
+      "mean_delta": 133.538
+    },
+    {
+      "frame": 42605,
+      "time": 710.083333,
+      "mean_delta": 64.497
+    },
+    {
+      "frame": 42609,
+      "time": 710.15,
+      "mean_delta": 26.011
+    },
+    {
+      "frame": 42610,
+      "time": 710.166667,
+      "mean_delta": 38.241
+    },
+    {
+      "frame": 42611,
+      "time": 710.183333,
+      "mean_delta": 29.535
+    },
+    {
+      "frame": 42612,
+      "time": 710.2,
+      "mean_delta": 27.28
+    },
+    {
+      "frame": 42613,
+      "time": 710.216667,
+      "mean_delta": 32.492
+    },
+    {
+      "frame": 42614,
+      "time": 710.233333,
+      "mean_delta": 32.581
+    },
+    {
+      "frame": 42615,
+      "time": 710.25,
+      "mean_delta": 25.592
+    },
+    {
+      "frame": 43038,
+      "time": 717.3,
+      "mean_delta": 29.232
+    }
+  ],
+  "dense_windows_generated": [
+    [
+      0.0,
+      3.0
+    ],
+    [
+      120.0,
+      123.0
+    ],
+    [
+      380.0,
+      383.0
+    ],
+    [
+      650.0,
+      653.0
+    ]
+  ],
+  "visual_review_status": "Consecutive local thumbnail sheets inspected for listed windows; all overview sheets inspected. Full-video semantic review of every frame was NOT performed.",
+  "method": "FFmpeg + NumPy/OpenCV locally; all frames measured; no cloud image analysis",
+  "dense_intervals_visually_inspected": [
+    [
+      0,
+      3
+    ],
+    [
+      120,
+      123
+    ],
+    [
+      150,
+      158
+    ],
+    [
+      176,
+      180
+    ],
+    [
+      380,
+      383
+    ],
+    [
+      650,
+      653
+    ]
+  ],
+  "dense_frames_visually_inspected": 1440
+}

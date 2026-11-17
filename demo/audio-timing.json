@@ -1,0 +1,114 @@
+{
+  "voice": "Edge hi-IN-MadhurNeural, synthetic",
+  "music": "original deterministic local synthesis, 100 BPM",
+  "sfx": "original local synthesis",
+  "parts": [
+    {
+      "start": 0.2,
+      "end": 4.6,
+      "text": "बीस की चाय। क्या पूरे बीस रुपये तुम्हारे?",
+      "natural_trimmed_seconds": 3.3747708333333333,
+      "speed_factor": 1,
+      "actual_end": 3.571229166666667
+    },
+    {
+      "start": 5.0,
+      "end": 8.8,
+      "text": "सौ कप बिके। दो हज़ार की बिक्री।",
+      "natural_trimmed_seconds": 2.8755625,
+      "speed_factor": 1,
+      "actual_end": 7.867145833333334
+    },
+    {
+      "start": 9.3,
+      "end": 14.2,
+      "text": "दूध, पत्ती, चीनी और कप। आठ रुपये प्रति कप।",
+      "natural_trimmed_seconds": 3.9431041666666666,
+      "speed_factor": 1,
+      "actual_end": 13.240854166666667
+    },
+    {
+      "start": 14.7,
+      "end": 19.5,
+      "text": "बचे बारह सौ। किराया, गैस और बाकी खर्च, पाँच सौ।",
+      "natural_trimmed_seconds": 4.3504375,
+      "speed_factor": 1,
+      "actual_end": 19.046645833333333
+    },
+    {
+      "start": 20.0,
+      "end": 24.3,
+      "text": "अब बचे सात सौ। मेहनत और टैक्स अभी बाकी हैं।",
+      "natural_trimmed_seconds": 4.039166666666667,
+      "speed_factor": 1,
+      "actual_end": 24.033895833333332
+    },
+    {
+      "start": 24.8,
+      "end": 29.5,
+      "text": "इसलिए पूछो, खर्च काटकर कितना बचा?",
+      "natural_trimmed_seconds": 2.2448333333333332,
+      "speed_factor": 1,
+      "actual_end": 27.040354166666667
+    }
+  ],
+  "events": [
+    {
+      "time": 0.68,
+      "kind": "wood"
+    },
+    {
+      "time": 1.15,
+      "kind": "coin"
+    },
+    {
+      "time": 5.15,
+      "kind": "paper"
+    },
+    {
+      "time": 6.95,
+      "kind": "coin"
+    },
+    {
+      "time": 9.55,
+      "kind": "wood"
+    },
+    {
+      "time": 10.35,
+      "kind": "wood"
+    },
+    {
+      "time": 11.15,
+      "kind": "wood"
+    },
+    {
+      "time": 11.95,
+      "kind": "wood"
+    },
+    {
+      "time": 13.05,
+      "kind": "coin"
+    },
+    {
+      "time": 14.8,
+      "kind": "paper"
+    },
+    {
+      "time": 16.5,
+      "kind": "paper"
+    },
+    {
+      "time": 20.35,
+      "kind": "coin"
+    },
+    {
+      "time": 24.9,
+      "kind": "paper"
+    },
+    {
+      "time": 26.1,
+      "kind": "coin"
+    }
+  ],
+  "sample_peak_dbfs": -1.886804659253727
+}

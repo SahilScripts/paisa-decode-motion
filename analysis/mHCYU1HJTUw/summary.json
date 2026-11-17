@@ -1,0 +1,55 @@
+{
+  "source": "sources/mHCYU1HJTUw.mp4",
+  "sha256": "b3a0df4b2de783d7e453304202b2263c31260e0674490c67ee0dce3d688317ec",
+  "native_fps": 60.0,
+  "analysis_fps": 60,
+  "width": 1920,
+  "height": 1080,
+  "frames_measured": 38408,
+  "duration_measured": 640.1333333333333,
+  "near_duplicates": 5160,
+  "cut_candidates": [],
+  "dense_windows_generated": [
+    [
+      0.0,
+      3.0
+    ],
+    [
+      120.0,
+      123.0
+    ],
+    [
+      380.0,
+      383.0
+    ],
+    [
+      600.0,
+      603.0
+    ]
+  ],
+  "visual_review_status": "Consecutive local thumbnail sheets inspected for listed windows; all overview sheets inspected. Full-video semantic review of every frame was NOT performed.",
+  "method": "FFmpeg + NumPy/OpenCV locally; all frames measured; no cloud image analysis",
+  "dense_intervals_visually_inspected": [
+    [
+      0,
+      3
+    ],
+    [
+      6,
+      9
+    ],
+    [
+      120,
+      123
+    ],
+    [
+      380,
+      383
+    ],
+    [
+      600,
+      603
+    ]
+  ],
+  "dense_frames_visually_inspected": 900
+}
