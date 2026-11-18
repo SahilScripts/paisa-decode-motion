@@ -14,10 +14,6 @@ Read [the observed style](references/style.md) before designing and
 [the analysis evidence](references/evidence.md) when matching a particular move or claiming
 reference coverage. Observed parameters are starting points, not recovered project settings.
 For rendering commands and dependencies, read [build and reuse](references/build.md).
-For requests to customise an existing film, consult the relevant example in the
-[edit prompt library](references/prompts/README.md) when useful. It maps common changes to
-the current source files and their dependencies; load only the examples needed. Apply the
-user's actual requested edit rather than the example's sample colours, words or numbers.
 
 ## Frame analysis boundary
 

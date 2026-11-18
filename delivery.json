@@ -13,5 +13,6 @@
   "review": "demo/review-notes.md",
   "visual_analysis": "local only; 129684 full reference frames measured, 3240 selected dense frames and 272 overview frames visually inspected",
   "vertex": "audio transcription only",
-  "continuous_playback_listening": "not performed"
+  "continuous_playback_listening": "not performed",
+  "user_prompt_library": "PROMPTS.md"
 }

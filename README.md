@@ -4,13 +4,13 @@ A reusable Codex skill and editable 30-second Hindi business-explainer demo insp
 
 ![Demo preview](demo/output/preview.jpg)
 
-**[Watch or download the 30-second MP4](demo/output/chai-demo-30s.mp4)** · [Download the portable skill](paisa-decode-motion-skill.zip)
+**[Prompt library for users](PROMPTS.md)** · [Download the portable skill](paisa-decode-motion-skill.zip) · [Watch the 30-second demo](demo/output/chai-demo-30s.mp4)
 
 ## Edit the video with an AI agent
 
 Open the repository in your agent, ask it to read `skill/SKILL.md`, then describe the edit you want. The skill supplies the workflow; your prompt supplies this video's changes.
 
-**[Open the copy-and-paste prompt library](skill/references/prompts/README.md)** for a session setup, 26 edit prompts, and a map of the actual editable files. It covers colours, fonts, backgrounds, characters, branding, sound effects, music, voice, scripts, captions, numbers, motion, duration, aspect ratio, exports, new topics, and future defaults. The prompt library is also included in the portable skill ZIP.
+**[Open PROMPTS.md: the copy-and-paste prompt library](PROMPTS.md)** for a session setup, 26 edit prompts, and a map of the actual editable files. It covers colours, fonts, backgrounds, characters, branding, sound effects, music, voice, scripts, captions, numbers, motion, duration, aspect ratio, exports, new topics, and future defaults. PROMPTS.md is a separate user guide at the repository root. Download it alongside the skill; it is not included in the skill ZIP.
 
 For example:
 
@@ -18,7 +18,7 @@ For example:
 Read skill/SKILL.md and edit demo/. Change the orange accent to blue #2563EB, including the coin gradients and highlighted words. Keep the current narration and timing. Check the changed scenes and render a new version named chai-blue-v2.mp4.
 ```
 
-For Codex with the skill installed, start with `Use $paisa-decode-motion`. For another coding agent, explicitly provide the skill folder or repository and ask it to read the instructions. The library explains how to start with either the full project or only the skill ZIP.
+For Codex with the skill installed, start with `Use $paisa-decode-motion`. For another coding agent, explicitly provide the skill folder or repository and ask it to read the instructions. Keep PROMPTS.md open for yourself and paste your chosen request into the agent. The guide explains how to work with the full project or with the skill ZIP plus this separate prompt book.
 
 ## Included
 
@@ -27,7 +27,7 @@ For Codex with the skill installed, start with `Use $paisa-decode-motion`. For a
 - [Reference evidence](skill/references/evidence.md) and [machine-readable coverage](analysis/coverage.json).
 - Local download, 60 fps measurement, and consecutive-frame extraction tools under `skill/scripts/`.
 - [Demo review notes](demo/review-notes.md), including checks performed and remaining limitations.
-- [Edit prompt library](skill/references/prompts/README.md) with 26 focused prompts and a combined-edit brief.
+- [User prompt library](PROMPTS.md) with 26 focused prompts and a combined-edit brief.
 
 ## Install the skill
 
