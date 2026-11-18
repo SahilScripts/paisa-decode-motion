@@ -11,4 +11,3 @@ Keep the narration and music. Match each effect's perceived contact/attack to it
 ```
 
 Use the [session setup and edit defaults](README.md#start-a-session) once when starting a fresh agent session.
-

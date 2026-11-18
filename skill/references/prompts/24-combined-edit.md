@@ -20,4 +20,3 @@ Resolve dependencies between these edits: new words need new speech and reveal t
 ```
 
 Use the [session setup and edit defaults](README.md#start-a-session) once when starting a fresh agent session.
-

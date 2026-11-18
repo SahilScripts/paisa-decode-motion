@@ -11,4 +11,3 @@ Use the supplied brand assets and adapt spacing for their actual dimensions. Kee
 ```
 
 Use the [session setup and edit defaults](README.md#start-a-session) once when starting a fresh agent session.
-

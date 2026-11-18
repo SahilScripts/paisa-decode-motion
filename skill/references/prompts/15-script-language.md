@@ -12,4 +12,3 @@ Preserve the meaning of the price, sales, cost breakdown and ₹700 remainder un
 ```
 
 Use the [session setup and edit defaults](README.md#start-a-session) once when starting a fresh agent session.
-

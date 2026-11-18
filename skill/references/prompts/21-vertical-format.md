@@ -11,4 +11,3 @@ Update the composition, absolute positions, widths, typography, background/textu
 ```
 
 Use the [session setup and edit defaults](README.md#start-a-session) once when starting a fresh agent session.
-

@@ -11,4 +11,3 @@ Build an original hook, scene plan, artwork, narration, soundtrack and visible p
 ```
 
 Use the [session setup and edit defaults](README.md#start-a-session) once when starting a fresh agent session.
-

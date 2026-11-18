@@ -11,4 +11,3 @@ Keep the current narration, arithmetic and total duration. Design the new scene 
 ```
 
 Use the [session setup and edit defaults](README.md#start-a-session) once when starting a fresh agent session.
-

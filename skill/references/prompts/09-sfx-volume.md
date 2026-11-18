@@ -11,4 +11,3 @@ Rebuild public/mix.wav and compare the new effect levels with the baseline. Chec
 ```
 
 Use the [session setup and edit defaults](README.md#start-a-session) once when starting a fresh agent session.
-

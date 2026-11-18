@@ -11,4 +11,3 @@ Update the composition duration, narration intervals, scene starts/ends and moti
 ```
 
 Use the [session setup and edit defaults](README.md#start-a-session) once when starting a fresh agent session.
-

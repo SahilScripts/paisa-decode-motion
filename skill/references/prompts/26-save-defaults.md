@@ -11,4 +11,3 @@ Regenerate the portable skill ZIP, validate its internal links and instructions,
 ```
 
 Use the [session setup and edit defaults](README.md#start-a-session) once when starting a fresh agent session.
-

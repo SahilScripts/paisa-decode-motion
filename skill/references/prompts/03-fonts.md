@@ -11,4 +11,3 @@ Load the font deterministically from a usable local asset when available. Check 
 ```
 
 Use the [session setup and edit defaults](README.md#start-a-session) once when starting a fresh agent session.
-

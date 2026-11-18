@@ -11,4 +11,3 @@ Keep the current narrative, arithmetic, duration and audio. Check every scene fo
 ```
 
 Use the [session setup and edit defaults](README.md#start-a-session) once when starting a fresh agent session.
-

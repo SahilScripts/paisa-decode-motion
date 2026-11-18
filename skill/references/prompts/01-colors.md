@@ -11,4 +11,3 @@ Keep the current story, numbers, scene timings and audio. Inspect the larger sce
 ```
 
 Use the [session setup and edit defaults](README.md#start-a-session) once when starting a fresh agent session.
-

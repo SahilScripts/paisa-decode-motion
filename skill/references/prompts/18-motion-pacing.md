@@ -11,4 +11,3 @@ Adjust pop/ease use, scene transforms and specific object moves rather than slow
 ```
 
 Use the [session setup and edit defaults](README.md#start-a-session) once when starting a fresh agent session.
-

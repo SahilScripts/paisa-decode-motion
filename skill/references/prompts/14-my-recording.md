@@ -11,4 +11,3 @@ Use the recording as the voice source in the reproducible mix. Update the narrat
 ```
 
 Use the [session setup and edit defaults](README.md#start-a-session) once when starting a fresh agent session.
-

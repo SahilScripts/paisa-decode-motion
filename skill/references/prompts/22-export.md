@@ -11,4 +11,3 @@ Keep the current story and mix. Verify the actual encoded resolution, frame rate
 ```
 
 Use the [session setup and edit defaults](README.md#start-a-session) once when starting a fresh agent session.
-

@@ -106,4 +106,3 @@ These prompts describe tasks for a coding agent; they are not new one-click cont
 ## What to include in a useful request
 
 Give the agent a target (whole film, scene or timestamp), the desired result (a hex colour, sound character, replacement wording or example), any supplied file path, and the output you want. Plain language is fine: “At 13 seconds, that ping is too sharp; make it a quiet coin click” gives the agent enough direction to investigate.
-

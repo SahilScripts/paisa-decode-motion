@@ -11,4 +11,3 @@ Update narration.json, all visible amounts and equations, the cup count or clear
 ```
 
 Use the [session setup and edit defaults](README.md#start-a-session) once when starting a fresh agent session.
-

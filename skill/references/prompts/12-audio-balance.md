@@ -13,4 +13,3 @@ If I instead specify 'narration only', set both music and SFX layers to silence 
 ```
 
 Use the [session setup and edit defaults](README.md#start-a-session) once when starting a fresh agent session.
-

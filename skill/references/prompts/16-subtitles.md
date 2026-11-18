@@ -11,4 +11,3 @@ Build caption timing from the real audio rather than dividing the script into eq
 ```
 
 Use the [session setup and edit defaults](README.md#start-a-session) once when starting a fresh agent session.
-

@@ -11,4 +11,3 @@ Adjust the relevant scene positions, dimensions and motion anchors together. Kee
 ```
 
 Use the [session setup and edit defaults](README.md#start-a-session) once when starting a fresh agent session.
-

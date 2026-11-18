@@ -11,4 +11,3 @@ Inspect the consecutive local frames around the count settling and allow for the
 ```
 
 Use the [session setup and edit defaults](README.md#start-a-session) once when starting a fresh agent session.
-
